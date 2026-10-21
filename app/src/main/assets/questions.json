@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1,
+    "texto": "¿Qué método se ejecuta al crear una Activity?",
+    "opciones": ["onCreate()", "onPause()", "onStop()", "onDestroy()"],
+    "respuestaCorrecta": 0,
+    "categoria": "ANDROID"
+  },
+  {
+    "id": 2,
+    "texto": "¿Qué palabra declara una variable que puede cambiar en Kotlin?",
+    "opciones": ["val", "var", "fun", "class"],
+    "respuestaCorrecta": 1,
+    "categoria": "PROGRAMACION"
+  },
+  {
+    "id": 3,
+    "texto": "¿Qué anotación identifica una función de interfaz en Compose?",
+    "opciones": ["@Composable", "@Activity", "@State", "@Android"],
+    "respuestaCorrecta": 0,
+    "categoria": "COMPOSE"
+  }
+]
